@@ -1,0 +1,52 @@
+
+########## This File Just For Reference ############
+[{
+    "productName" : "Iphone",
+    "productDescription" : "APPLE IPHONE 12 128GB NON ACTIVE WITH COMPLETE BOX PACK (NON-PTA-APPROVED)",
+    "price" : 69990,
+    "features" : "Face ID,accelerometer,gyro, proximity,compass,barometer,Ultra Wideband (UWB)",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+},
+{
+    "productName" : "Headphone",
+    "productDescription" : "Apple AirPods Max (Sky Blue)",
+    "price" : 29999,
+    "features" : "WIRELESS CAPABILITY,NOISE CANCELLATION,BONE CONDUCTION,MICROPHONE",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+},
+{
+    "productName" : "Laptop",
+    "productDescription" : "Dell laptop ,8GB RAM,1TB Hard disc,i8 7th Gen",
+    "price" : 48999,
+    "features" : "Powerful Performance,Elegant Design,English Backlit Keyboard,Light and durable",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+},
+{
+    "productName" : "Airpods",
+    "productDescription" : "Airpods Pro Height: 30.9 mm (1.22 inches)",
+    "price" : 26300,
+    "features" : "Wireless Charging Case,Silicone ear tips (three sizes),Adaptive EQ,H1-based System",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+},
+{
+    "productName" : "Shoes",
+    "productDescription" : "Puma Deviate Nitro Elite Racer Mens Running Shoes",
+    "price" : 16999,
+    "features" : "Lightweight,Lightweight,Durable,Reflective design",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+},
+{
+    "productName" : "Apple-Watch",
+    "productDescription" : "Apple Watch Colour - Starlight LCD Display",
+    "price" : 39980,
+    "features" : "Lightweight,Bluetooth Connectivity,1.5 Inch Display,Rectangular Design",
+    "quantity" : 10,
+    "productStatus" : "HURRY UP TO PURCHASE"
+}
+
+]

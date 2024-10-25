@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "shoppingapp.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'shoppingapp.app.jwtSecret'"
+  },
+  {
+    "name": "shoppingapp.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'shoppingapp.app.jwtExpirationMs'"
+  }
+]}
